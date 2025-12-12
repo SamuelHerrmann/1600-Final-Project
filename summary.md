@@ -21,4 +21,5 @@ To make the text ***Bold and Italic*** put *** or ___ (three underscores in a ro
 
 # Links
 
-To make a text have a link attached to it type this "[text you want to display](link)"
+To make a text have a link attached to it type this "[text you want to display] (link)" but remove the space inbetween the two sections.
+Alternativly to just make a link functional, add < to the beginning and > to the end
