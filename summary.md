@@ -15,16 +15,16 @@ To make paragraphs and regular text simply type in an empty line of code.
 
 # Bold and Italic text
 
-To make a text **bold** simply add "**" or "__" (two underscores in a row) to the beginning and end of the desired text.
-To make it *Italic* add "*" or "_" (one underscore) to the beginning and end of the desired text.
-To make the text ***Bold and Italic*** put "***" or "___" (three underscores in a row) to the beginning and end of the desired text.
+To make a text **bold** simply add "\*\*" or "\_\_" (two underscores in a row) to the beginning and end of the desired text.
+To make it *Italic* add "\*" or "\_" (one underscore) to the beginning and end of the desired text.
+To make the text ***Bold and Italic*** put "\*\*\*" or "\_\_\_" (three underscores in a row) to the beginning and end of the desired text.
 
 # Links
 
-To make a text have a link attached to it type this "[text you want to display] (link)" but remove the space inbetween the two sections.
-Alternativly to just make a link functional, add "<" to the beginning and ">" to the end.
+To make a text have a link attached to it type this "\[text you want to display\]\(link\)"
+Alternativly to just make a link functional, add "\<" to the beginning and "\>" to the end.
 
 # Images
 
 To add an image to your Markdown page type this:
-"![alt text if image is not in repository] (path to image file)" except there is no space between [] and ().
+"\!\[alt text if image is not in repository\]\(path to image file\)"
